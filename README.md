@@ -30,7 +30,7 @@ that are not visually seen on the browser
 technology used: php, mysql
 
 ## Project requirement:
-[![Get](https://img.shields.io/badge/Xampp-#fb7a24)](https://www.apachefriends.org/)
+[![Get](https://img.shields.io/badge/Xampp-blue)](https://www.apachefriends.org/)
 [![Get](https://img.shields.io/badge/Wamp-#ffaf04)](https://www.wampserver.com/en/)
 [![Get](https://img.shields.io/badge/Mamp-#f76c27)](https://www.mamp.info/en/downloads/)
 [![Get](https://img.shields.io/badge/Ampps-#7f00ff)](https://ampps.com/downloads/)
