@@ -21,7 +21,7 @@ This application is composed mainly of two parts:
 Frontend:
 This part is responsible for user interaction, includes the design, layout and ui elements.
 It is responsible for presenting content and data to users.
-technology used: Html,css (Bootstrap framework)
+technology used: Html, Css (Bootstrap framework)
 
 Backend:
 This part is mainly responsible for the storage purpose.
@@ -30,12 +30,16 @@ that are not visually seen on the browser
 technology used: php, mysql
 
 ## Project requirement:
+[![Get](https://img.shields.io/badge/Xampp-#fb7a24)](https://www.gnu.org/licenses/gpl-3.0)
+[![Get](https://img.shields.io/badge/Wamp-#ffaf04)](https://www.gnu.org/licenses/gpl-3.0)
+[![Get](https://img.shields.io/badge/Mamp-#f76c27)](https://www.gnu.org/licenses/gpl-3.0)
+[![Get](https://img.shields.io/badge/Ampps-#7f00ff)](https://www.gnu.org/licenses/gpl-3.0)
 - Project Name: Agric equipment rental system
 - Language Used: PHP 5.6, PHP7.x
 - Database: MySQL 5.x
 - UI Design: Html, Css, Bootstrap, Javascript
 - Web Browser: Mozilla, Google chrome, IE8, Opera
-- Software: Xampp / Wamp / Mamp / Lamp
+- Software: Xampp / Wamp / Mamp / Ampps
 
 ## How to run:
 1) Download the Zip file
@@ -50,6 +54,6 @@ For lamp:  "var/www/HTML"
 7) Run the script (http://localhost/mariga)
 
 ### Login Credential:
-* Username:admin
-* password:123456
+* Username: admin
+* password: 123456
 
