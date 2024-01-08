@@ -58,4 +58,4 @@ For lamp:  "var/www/HTML"
 * Username: admin
 * password: 123456
 
-### Project Status: `Not complete`
+<b> Project Status:</b> ` Not complete `
