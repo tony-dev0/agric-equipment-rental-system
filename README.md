@@ -30,12 +30,12 @@ that are not visually seen on the browser
 technology used: php, mysql
 
 ## Project requirement:
-Project Name: Agric equipment rental system
-Language Used: PHP 5.6, PHP7.x
-Database: MySQL 5.x
-UI Design: Html, Css, Bootstrap, Javascript
-Web Browser: Mozilla, Google chrome, IE8, Opera
-Software: Xampp / Wamp / Mamp / Lamp
+- Project Name: Agric equipment rental system
+- Language Used: PHP 5.6, PHP7.x
+- Database: MySQL 5.x
+- UI Design: Html, Css, Bootstrap, Javascript
+- Web Browser: Mozilla, Google chrome, IE8, Opera
+- Software: Xampp / Wamp / Mamp / Lamp
 
 ## How to run:
 1) Download the Zip file
@@ -47,9 +47,9 @@ For lamp:  "var/www/HTML"
 4) Open PHPMyAdmin (http://localhost/phpmyadmin)
 5) Create a database with the name "marigafarm"
 6) Import marigafarm.sql file (in the root directory)
-7) Run the script http://localhost/mariga
+7) Run the script (http://localhost/mariga)
 
 ### Login Credential:
-Username:admin
-password:123456
+* Username:admin
+* password:123456
 
