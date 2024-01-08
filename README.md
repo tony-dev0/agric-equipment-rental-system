@@ -6,12 +6,14 @@ tracks the equipments on rent and shows its availability.
 
 ## User Module
 **FARMER
+
 Farmer login to the application using the username and Password He / She can view 
 the list of machineries ordered in a particular area. 
 They can perform the analytics and sanction the machineries based on the requirements
 
 **BUYER
-Farmer login to the application using the username and Password He / She can can view
+
+Buyer login to the application using the username and Password He / She can can view
 the list of machineries available in a particular area.
 They can make purchases of tools available and also book eqiupments in advance
 
@@ -56,3 +58,4 @@ For lamp:  "var/www/HTML"
 * Username: admin
 * password: 123456
 
+### Project Status: `Not complete`
