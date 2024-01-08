@@ -31,15 +31,14 @@ technology used: php, mysql
 
 ## Project requirement:
 [![Get](https://img.shields.io/badge/Xampp-fb7a24)](https://www.apachefriends.org/)
-[![Get](https://img.shields.io/badge/Wamp-ffaf04)](https://www.wampserver.com/en/)
-[![Get](https://img.shields.io/badge/Mamp-f76c27)](https://www.mamp.info/en/downloads/)
+[![Get](https://img.shields.io/badge/Wamp-blue)](https://www.wampserver.com/en/)
+[![Get](https://img.shields.io/badge/Mamp-green)](https://www.mamp.info/en/downloads/)
 [![Get](https://img.shields.io/badge/Ampps-7f00ff)](https://ampps.com/downloads/)
 - Project Name: Agric equipment rental system
 - Language Used: PHP 5.6, PHP7.x
 - Database: MySQL 5.x
 - UI Design: Html, Css, Bootstrap, Javascript
 - Web Browser: Mozilla, Google chrome, IE8, Opera
-- Software: Xampp / Wamp / Mamp / Ampps
 
 ## How to run:
 1) Download the Zip file
